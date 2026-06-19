@@ -4,6 +4,7 @@ import requests
 from typing import Optional
 import json
 import os
+import socket as socket
 
 load_dotenv()
 
